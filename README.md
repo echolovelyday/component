@@ -1,2 +1,2 @@
 # component
-plugin是、
+plugins
