@@ -1,0 +1,2 @@
+# component
+plugin是、
